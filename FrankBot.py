@@ -26,13 +26,19 @@ def GetRoomOccupants(bearId, roomId):
   url = "https://api.ciscospark.com/v1/memberships"
   aut = "Bearer " + str(bearId)
   con = "application/json; charset=utf-8"
-  header = {"Authorization":aut, "Content-type":con, "roomId":roomId}
+  header = {"Authorization":aut, "Content-type":con}
+  query_params = {"roomId":roomId}
 
-  r = requests.get(url, headers=header)
+  r = requests.get(url, headers=header, params=query_params)
   rjson = r.json( )
-  pprint(rjson)
   person_list = [] # list of persons
-  return
+  for person in rjson["items"]:
+    temp = Person( )
+    temp.name = person["personDisplayName"]
+    temp.email = person["personEmail"]
+    person_list.append(temp)
+
+  return person_list
 
 def GetOccupiedRooms(bearId):
   url = "https://api.ciscospark.com/v1/rooms"

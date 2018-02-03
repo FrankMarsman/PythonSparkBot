@@ -17,6 +17,13 @@ for i in range(0, len(group_list)):
 
 print("Tot groups: " + str(len(group_list)))
 
-group_index = int(input("Which group do you want to inspect? Index = "))
+gi = int(input("Which group do you want to inspect? Index = "))
 
-print("You chose " + group_list[group_index].name)
+print("You chose " + group_list[gi].name)
+
+person_list = FrankBot.GetRoomOccupants(id, group_list[gi].id)
+
+for i in range(0, len(person_list)):
+  print("[" + str(i) + "] " + person_list[i].name)
+
+print("#Persons in group: " + str(len(person_list)))
