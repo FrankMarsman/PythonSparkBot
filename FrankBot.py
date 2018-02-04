@@ -9,18 +9,72 @@ import json
 from pprint import pprint
 import os
 
-# Let's make a class that represents a single rooms
-class Room(object):
-  name = ""
-  isPerson = False
-  id = ""
-# end of Room class
-
 # A class that represents a single person
 class Person(object):
   name = ""
   email = ""
 # end of Person class
+
+# A class that contains a message
+class Message(object):
+  text = "" # content of message
+# end of Message class
+
+# Let's make a class that represents a single rooms
+class Room(object):
+  name = ""
+  isPerson = False
+  id = ""
+
+  # fills [message_list] with messages
+  @staticmethod
+  def GetMessages(bearId, roomId):
+    url = "https://api.ciscospark.com/v1/messages"
+    aut = "Bearer " + str(bearId)
+    con = "application/json; charset=utf-8"
+    header = {"Authorization":aut, "Content-type":con}
+    query_params = {"roomId":roomId}
+    runAgain = True
+    runCounter = 0
+    message_list = []
+
+    while runAgain == True:
+      runCounter = runCounter + 1
+      if runCounter == 1:
+        r = requests.get(url, headers=header, params=query_params)
+      else:
+        r = requests.get(url, headers=header)
+      rjson = r.json( )
+      #pprint(rjson)
+
+      for msg in rjson["items"]:
+        temp = Message( )
+        if "text" in msg:
+          temp.text = msg["text"]
+          message_list.append(temp)
+
+      print("Tot messages = " + str(len(message_list)))
+
+      if "link" in r.headers:
+        print("link in header")
+        link = r.headers["link"]
+        print("link = " + link)
+        link = link.split(';', 1)[0]
+        print("link = " + link)
+        link = link[1:-1]
+        print("link = " + link)
+        runAgain = True
+        url = link
+      else:
+        print("link NOT in header")
+        runAgain = False
+
+      if runCounter > 50: # too many, something is wrong
+        runAgain = False
+    return message_list
+# end of Room class
+
+
 
 def GetRoomOccupants(bearId, roomId):
   url = "https://api.ciscospark.com/v1/memberships"

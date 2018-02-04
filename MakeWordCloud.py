@@ -9,9 +9,10 @@ from os import path
 from wordcloud import WordCloud
 
 d = path.dirname("")
+fileName = 'BaguetteChat.txt'
 
 # Read the whole text.
-text = open(path.join(d, 'input.txt')).read()
+text = open(path.join(d, fileName)).read()
 
 # Generate a word cloud image
 wordcloud = WordCloud().generate(text)
