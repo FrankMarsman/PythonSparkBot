@@ -1,0 +1,158 @@
+Test
+Hahaha, I thought it was an unknown person
+Test message
+Test message
+Test message
+Test message
+Sorry, I did not understand.<br/>Try `@FranksChatBot help`
+FranksChatBot Fuck you then
+Sorry, I did not understand.<br/>Try `@FranksChatBot help`
+Cheers FranksChatBot
+Marwan Hussein makes great kebabs!
+FranksFirstBot Who does the best kebabs?
+Sorry I cannot offer you a kebab
+FranksFirstBot I want a kebab
+Sorry, I did not understand.<br/>Try `@FranksChatBot help`
+FranksChatBot I want a kebab
+Sorry, I did not understand.<br/>Try `@FranksChatBot help`
+FranksFirstBot
+FranksChatBot
+Hello
+Sorry, I did not understand.<br/>Try `@FranksChatBot help`
+I didn't get that.
+FranksFirstBot vsdf
+FranksChatBot
+Frankbot
+Hallo
+Another test for presentaiton
+Test lolz 123
+inshallah
+Habibi
+Yala
+anyway
+Let’s go enyway Marwan
+Alejandro is not in
+yalla
+Right now
+Let’s go for a smoke
+Sorry, I did not understand.<br/>Try `@FranksChatBot help`
+FranksChatBot yo bitch
+FranksChatBot ik wil graag kebab bestellen
+SOng abt postman
+https://www.youtube.com/watch?v=nXOGOqvCI38
+Alright, here is your kebab with hot sauce! Enjoy!
+FranksChatBot hot sauce
+What do you like to put on your kebab?
+Did I hear kebab?
+FranksChatBot One kebab please
+Cool, I like kebabs too!
+FranksChatBot kebabs
+What is your favorite color?
+This is a Botkit conversation sample.
+FranksChatBot color yeah
+Cool, I like your mother too!
+FranksChatBot your mother
+your mother
+What is your favorite color?
+This is a Botkit conversation sample.
+FranksChatBot bitch let’s talk abt color
+hahaha
+Kiss my metallic French ass!
+French, you are a bitch
+Oh, your French is terrribleee. Please repeaaat
+French bitch
+or its just good at being french
+hahah passive aggressive bot you made there
+Ohoh, Frank steals bots from other people
+French, what do you think about Frank?
+Here are my skills:
+- `@BotName .commons`: shows metadata about myself
+- `@BotName help`: spreads the word about my skills
+FranksChatBot help with stealhtwatch
+```json
+{
+   "owner"       : "Cisco DevNet <https://developer.cisco.com>",
+   "support"     : "Stève Sfartz <mailto:stsfartz@cisco.com>",
+   "up-since"    : "Mon, 29 Jan 2018 09:58:05 GMT",
+   "healthcheck" : "https://8ca57f62.ngrok.io//ping",
+   "version"     : "v0.1.0",
+   "code"        : "https://github.com/CiscoDevNet/botkit-ciscospark-samples"
+}
+
+```
+FranksChatBot .commons
+Here are my skills:
+- `@BotName .commons`: shows metadata about myself
+- `@BotName help`: spreads the word about my skills
+no
+FranksChatBot help
+help
+_Note that this is a 'Group' Space.                        I will answer only if mentionned:<br/>                        for help, type `@BotName help`_
+Hi! Type `help` to learn more about my skills.
+hahah not anymore
+Do we have a special guess at class?
+Frank, where are you?
+Nope, I didn’t
+OMG haha
+For your french bot
+From learninglabs?
+Alejandro, did you use the BotKit example?
+hahahah
+Hahahaha yeah
+WTF, I want this AI to rewrite the 2nd World War
+Ron’s Ron shirt was just as bad as Ron himself
+He saw Harry and inmediately began to eat Hermione’s family
+Hahahaha
+Botnik
+http://botnik.org/content/harry-potter.html
+written by an AI
+This is a 3 page chapter of harry potter
+Wtf
+This bot was super easy to make. No programming and it understands natural languaje
+I am from the grrreat Frrance. Frrom le Champagne. Good breverage, better women
+French, where are you from?
+Only the ones that don't believe in the Baguette god are crrrazy
+French you are really crazy
+I like dipping crosissants in good Frrench wine
+French hobby
+I am the Frrrench ambassador for the Cheese and Baguettes exterior ministry
+French, who are you?
+I like dipping crosissants in good Frrench wine
+French, do you have a hobby?
+I can't understand yoooour terrriblee accent
+French hahaha, that wasn’t my question
+I like baguettes with asscream
+French what is a baguette?
+Hello my dearrr non French
+French hello!
+You made a lazy bot
+FranksFirstBot /hello
+FranksFirstBot /help
+FranksFirstBot hello bitch
+/hello
+Hello
+Hi, I am the Hello World bot ! Type /hello to see me in action.
+FranksFirstBot /help
+/help
+Sorry, I did not understand. Try /help.
+FranksFirstBot /You Fool
+FranksFirstBot You fool
+Piece of shit /hello
+Finally
+Hello Frank Marsman
+FranksFirstBot /hello
+\hello
+/hello
+/hello
+Take it easy bruh
+answer me
+bitch bot
+/Hello
+/hello
+/hello
+Test
+https://s3-us-west-2.amazonaws.com/mybucket7869/BaguetteBossPic.png
+Then we will break the internet
+What if we put here 2 bots that will mention to each other?
+.
+Yo gangsters this is a test space. And I needed to add some bitches so just ignore this

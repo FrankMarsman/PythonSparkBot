@@ -10,7 +10,10 @@ import os
 import FrankBot
 import sys
 import collections
+
 from pprint import pprint
+from os import path
+from wordcloud import WordCloud
 
 os.system('clear')
 
@@ -35,5 +38,47 @@ for msg in msgs:
   if len(msg.text) > 0:
     nonEmpty.append(msg.text)
 
+
+fileName = group_list[gi].name + ".txt"
+file = open(fileName, "w")
+
 for str in nonEmpty:
-  print(str)
+  file.write(str + "\n")
+
+file.close( )
+
+#print("Total messages: " + str(len(msgs)))
+
+
+d = path.dirname("")
+text = open(path.join(d, fileName)).read()
+
+# Generate a word cloud image
+wordcloud = WordCloud().generate(text)
+
+# Display the generated image:
+# the matplotlib way:
+import matplotlib.pyplot as plt
+plt.imshow(wordcloud, interpolation='bilinear')
+plt.axis("off")
+
+# lower max_font_size
+wordcloud = WordCloud(max_font_size=40).generate(text)
+plt.figure()
+plt.imshow(wordcloud, interpolation="bilinear")
+plt.axis("off")
+plt.show()
+
+
+
+
+
+
+
+
+
+
+
+
+
+# end

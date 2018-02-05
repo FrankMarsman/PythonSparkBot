@@ -40,6 +40,7 @@ class Room(object):
 
     while runAgain == True:
       runCounter = runCounter + 1
+      print("Mining messages, iteration = " + str(runCounter))
       if runCounter == 1:
         r = requests.get(url, headers=header, params=query_params)
       else:
@@ -56,20 +57,20 @@ class Room(object):
       print("Tot messages = " + str(len(message_list)))
 
       if "link" in r.headers:
-        print("link in header")
+        #print("link in header")
         link = r.headers["link"]
-        print("link = " + link)
+        #print("link = " + link)
         link = link.split(';', 1)[0]
-        print("link = " + link)
+        #print("link = " + link)
         link = link[1:-1]
-        print("link = " + link)
+        #print("link = " + link)
         runAgain = True
         url = link
       else:
-        print("link NOT in header")
+        #print("link NOT in header")
         runAgain = False
 
-      if runCounter > 50: # too many, something is wrong
+      if runCounter > 25: # too many, something is wrong
         runAgain = False
     return message_list
 # end of Room class

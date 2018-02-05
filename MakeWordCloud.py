@@ -9,7 +9,7 @@ from os import path
 from wordcloud import WordCloud
 
 d = path.dirname("")
-fileName = 'BaguetteChat.txt'
+fileName = 'Network Administrators.txt'
 
 # Read the whole text.
 text = open(path.join(d, fileName)).read()

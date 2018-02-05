@@ -1,0 +1,1478 @@
+It could be. But we rather consider it team building
+Yes lets go now!!!!! 
+Hahaha
+o wait, after work is now right?
+cominggggg
+If anyone wants some refreshments, we will go to the bar in front of the office after work
+In case you’re bored: https://cisco-network-challenge.firebaseapp.com/?lang=en
+I tried for a few hours, but couldn´t make it run :/
+Has anyone deployed their bot on Heroku?
+CAKE TIME !
+thanks
+Ah, ok. I don’t know nothing about it, but for more advance features use: https://github.com/CiscoDevNet/ciscosparkapi
+I’m using the botkit-ciscospark-samples on github
+Framework like Flask?
+All right. Thanks !
+I’m using a framework, and I didn’t have to manage this part. I will try to find where is it taken from
+Exactly, the roomID is included in the JSON from the web hook, for both cases: a 1:1 room or a group room
+It is a attribute of the message you receive in the webhook
+you use the roomid that the webhook sent to you to do the post in the right room
+roomId    =  JSON['data']["roomId"]
+i’m using the JS botkit
+that’s what I want to get
+The webhook sends you the room id that generated the message
+or you just don’t send roomID ?
+you leave roomID empty ?
+so you POST something like this to Spark ?
+
+spark_json = {
+"roomId": ,
+"text": sparkMessage
+}
+The room ID that the bot needs will be contained in the message it receives from spark
+where it is added and mentioned
+the spark bot talks to all the rooms
+what will happen?
+you can leave the roomid empty Antoine
+probably not, if I remember correctly, you’re not using a bot
+Is that what you need ?
+python
+I can do that in mython
+Hello, (regarding programability project with Spark)
+is someone able to get the roomID of the room where the bot is added, automatically ?
+
+Right now, my roomID is hardcoded (I can find it using Postman, for sure).
+
+I would like the bot to be able to get this roomID automatically, everytime it’s added to a room. So you can try the bot (the customer) without me having to hardcore a new roomID
+Cool! Thanks
+uhh nice!
+for people who are into red hat
+https://techcrunch.com/2018/01/30/red-hat-acquirescoreos-for-250-million-in-kubernetes-expansion/?utm_source=tcfbpage&sr_share=facebook
+For anyone that wants to use it, the key they provide with this demo doesn’t actually work. You have to go to the profile and get one of the ones listed there.
+Ah all good. Thanks though.
+Me theoretically but so far only integrated some stuff using an integration tool
+Has anyone used the Meraki API?
+I would be happy to help, if I can do something ...
+As I told you at the end of last week, we are working for having it this week. Anyway, please understand that we are half of the people as Mathew is sick and Sarah Louise is in Cisco Live.
+Alejandro any news regarding VIRL ?
+I’m starting the lab review for CCNP, it would be really useful …
+Here are your results: 15 people said Yes 0 people said No
+EzPoll /results
+Thank you Chris Maxwell for you response.
+EzPoll yes
+Thank you Victoria Engh for you response.
+EzPoll yes
+Thank you Alex Escoda for you response.
+EzPoll yes
+Thank you Cedric Feist for you response.
+Ololo you need to mention the bot using @.EzPoll ;)
+EzPoll yes
+Ezpoll yes
+Thank you Mathew Clegg for you response.
+EzPoll yes
+Thank you Christine Bockelman I changed you response.
+EzPoll yes
+ezPoll yes
+Thank you Rene Probst for you response.
+EzPoll yes
+Thank you Sarah Louise Justin for you response.
+EzPoll yes
+Sarah!! how is barcelona?! :)
+Thank you Katrin Simon for you response.
+EzPoll yes
+@Ezpoll Yes
+Thank you Corinne Ruemmeli for you response.
+EzPoll yes
+Thank you Alexander De Moes for you response.
+EzPoll yes
+Thank you Minke Huizenga for you response.
+EzPoll yes
+Thank you Antoine Orsoni I changed you response.
+EzPoll yes
+great use of the technology Coco !
+Hello all. A new poll has been created for this room. Do you prefer option 1? Please mention the poll bot followed by your answer @Ezpoll yes @Ezpoll no
+EzPoll /poll Do you prefer option 1?
+Hi all!
+Sen just reached out to us regarding the devnet training.
+We will have 3 days of training, with 7 sessions. Of this 7 sessions we will have 4 facilitated sessions local in Amsterdam. And there are now 2 options on how this session will go.
+Option 1: AMSI and AMSII all in Balboa (like with security). So we have all 4 sessions lead by a facilitator for everyone.
+Option 2: AMSI in Bieschbos., AMSII in Balboa. Then each group has 2 sessions with a facilitator and 2 sessions over TP.
+So please answer quickly to this bot.
+Yes = Option 1, No = Option 2
+I'm in. Will be there at 9,Cedric 
+Ale I’m in for spotify family
+We’re going to meet up at De Prael Brewery at 9 and then head over to the bar a bit later.
+Not sure on the kangaroo, but they do have Pies and my favourite Aussie Pale Ale.
+But a fighting Kangaroo
+Cedric, only if they have Kangaroo
+anyone wants a spot in my spotify family, 30e for 12 months, upfront payment, let me know :)
+So if you didn’t know, today is the most important day of the year: Australia Day. There’s a bar in the city that’s doing a celebration.
+Details are here.
+It starts at midnight, but Lina and I were going to head into the center earlier and check it out, so hit me up if you’re keen.
+Really good little forum post on IS-IS, COOP, and BGP in ACI.
+https://supportforums.cisco.com/t5/application-centric/mp-bgp-is-is-coop/td-p/3063785
+👍✌️
+I*
+👌thanks Alejandro! :)
+Hi solved it Christine. For whoever will have the same problem, you have to click Build APIC Fabric in the desktop and the select option 4. It will take around 5 min and then it will be fixed
+Haha 😅
+Well, being positive, this is going to be the shortest demo ever. Login and logout.
+I have the same problem Christine
+:P
+efficiency, no ?
+we are not… I’m just trying to be efficient...
+how are you guys already at the labs?
+I can’t even get through the first step… the welcome message and lab agenda thing with the get started button doesn’t show up....
+Has anyone tried to do todays demo?
+On the other hand, thanks god Dutch is not DeanThey both love guns ;)
+we are going back to DC ...
+On the other hand, thanks god Dutch is not Dean
+we are doing dcloud demos
+Everything is weird
+Why are we having DC classes now and not during DC sessions?
+😂
+oops, sorry
+Istanbul ?
+By mistake again
+marwan
+I wanted to know for the 21rst of june
+I just threw some random dates
+I don’t even know these holidays 😂
+for my culture
+23rd September you are back in FranceI still want to know, Coco
+ok, thanks
+Same for 10th and 23rd
+23rd September you are back in France
+it is not something we actively celebrate
+or the 23rd of September ?
+what about the 10th of July ?
+no it is not
+based on mypto.cisco.com it´s not
+ok, apparently not...
+on this website it’s not clear
+https://www.timeanddate.com/holidays/netherlands/
+june 21rst, sorry
+No I don’t think so - why should that be one?
+in the netherlands
+do you know if the 20th of june is a bank day?
+digital learning is back !
+It seems so
+We have a different guy
+well, we are inside
+We´re talking to him, where are you?
+We are in - talking with Thomas scheer
+You guys are not in the call?
+We are missing Istanbul
+Group Anastasia not joining the Real-Deal-Speaker?
+Keep dancing Sylvain. That entertains me
+Haha, thats for me to know and you to find out ;)
+define “other stuff” :D
+well I guess its a good excuse to work on other stuff instead :P
+Upcoming Maintenance Window: Our Cisco Training on Demand certification courses will be down for maintenance and inaccessible starting at 12:00 PM PST on Tuesday, January 23rd, 2018, through the next morning, Wednesday, January 24th. We apologize for any inconvenience.
+whaaaaat?
+digital learning is down until tomorrow morning :(
+I guess that only for events you can ask for that. You can always buy it with a discount 
+sad :(
+No idea. I thought you meant routers and so
+even food is accepted
+Ah haha. Merchandising 
+Yes, such as a polo, a pen ...
+? 
+You mean physical equipment 
+Alejandro do you also know any goos plans to have cisco stuff for free ?
+Sweet, Thanks Alejandro
+I can help you tomorrow with that
+You can ask for access internally. They will give you a full account even with investigate 
+the token is only valid for 2 weeks with a free trial
+Lina said that after two weeks she needs to make another account
+Yo may be able to programmatically ask for another one every 2 weeks
+it’s probably because of a security reason (token need to be changed often). So you might not be able to change it
+Does anybody know if and how to get an Umbrella Rest API token that lasts for more than 2 weeks?
+WPR DIY department
+👍
+Show it to me tomorrow if this is the issue. I will do a live demo to the workplace ressources
+Don’t trust me 100%, Im not in the office.
+I think it was just in the frame, like a button switch type. Just a bit of tape and that’s all
+So we just remove the sensor from the door and glue it to the one on the frame. Problem solved.
+For inside to outside, down left part of the frame, I think it was
+There is a sensor in the lower part that may not make a perfect contact if it is not completely closed
+if you have any idea why the door on the 4th floor triggers the alarm sometimes, let me know and I will update the ticket.
+
+I know that the lock goes out to early (before the door is closed completely), but I cannot reproduce this behavior. If you have any idea, let me know.
+Yeah, recommending new graduates doesn’t count.
+It’s enough to talk to managers apparently. There is not recognition (= money) for CSAP recruitment
+Hey guys, if you are thinking of recommending someone for a position at Cisco, here is the website that you can use to refer them. If it’s CSAP Europe it might be enough to talk to the managers.
+https://cisco.avature.net/referral/Dashboard
+Hello!! Can anyone switch Meraki training days with me? I am currently supposed to do the training on March 2nd (Friday) but I will not be here 😭😭😭 If anyone is able to switch, I will be so grateful!
+Hi Guys,
+Alessandro and I are going to the Ajax vs VVV Venlo match on Wednesday the 18th of April at 20:45.
+Feel free to join us. We are sitting in Section 124, tickets are €38.
+https://www.visitajax.com/upcoming-games/ajax-vvv-venlo.html
+If you didnt know, you can disable the notifications (the beep sound) for spaces, by default.
+
+Go to Preferences and select “@Mention only” or “off”.
+
+You can also configure it manually for each space, by clinking on the “i” beside the group name (when the group is selected), and clicking on “Notifications”
+Ich pisse dich auf den Arsch, Cedric
+And the date in American format?
+Could you add the time in AEST as well please?
+regarding the door 🚪
+
+Estimate Resolution By: 22/01/18 16:01 (GMT + 1 DST/Y) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna
+THANK YOU
+i’ve opened a case to the Workgroup ressources, to fix the door. 🚪
+anyone with 2 VGA adapters by any chance? one is mine, lost in the battle! Free (good) coffee upon return
+nice, so I won’t come alone to the office on a bank day
+Holidays for this year!!
+Minke, bleu de Bresse would have been even better
+😮
+brie would have been even better
+😂
+so correct
+XD XD XD XD
+ok, so i started learning Python on code academy (a girl gotta start somewhere) and this is the example they give
+Excellenté
+yepp
+Did Digital Learning just die for anyone else?
+The camera loves me 😚😚
+An angel in the background
+Congrats guapi !
+Angel in the zoom view as always
+Sorry, I know I’m pretty mesmerising
+i’m looking at you, Cedric
+Zoom on Antoine xD
+Nothing antoine?
+oops
+oops
+Apparently
+yes
+People in Anastasia’s group, do we have a real deal speaker in 5min?
+Where do we sign
+I think Samar was going
+Is anyone else going to Alt-J next week?
+Yes, it is transparent to them . Packets will be decapsulated for them as if nothing happened 
+Yes, they asked me to look for that as part of the feedback of my ARP and it is exactly what Christine said
+I think we don’t have our load balancer - I think Anastasia mentioned that we use device pack for that
+I think firewalls and load balancers also can be from other vendors: “Hardware and Software Support
+
+Cisco APIC communicates with the firewalls or load balancers to render the graph defined by the user. For Cisco ACI to be able to talk to firewalls or load balancers, it needs to speak to their APIs. The administrator needs to install plug-ins on Cisco APIC that enable this communication.
+
+A plug-in is referred to as a device package, and the vendor of a firewall and load balancer must provide it so that Cisco APIC can communicate with it.”
+
+https://www.cisco.com/c/en/us/solutions/collateral/data-center-virtualization/application-centric-infrastructure/white-paper-c11-732493.html
+Does anyone know if devices like firewalls and load balancer that we can use in service chains must be cisco or at least support opflex?
+but it is internet, there would be wan, which is supposed to be better!
+you can ping places around the world to get a sense
+You can’t really say, there are some statistics here https://www.usenix.org/legacy/events/usenix02/full_papers/subramanian/subramanian_html/node21.html
+Do you know how far?
+so basically with 50ms the DC’s can be farther apart?
+Yes, previously it was 10ms, now it is 50ms. The thing is that for 10ms (aprox 500 miles between DC) you only need a base license, but if you want to increase it to 50ms you need an advantage license 
+👋🏻
+👌thanks
+so newest ones 50ms
+“In previous ACI releases, this limit is 10 msec RTT instead.”"
+As you said
+Yeah but then you’re good.
+they are both from 2017 which makes it even more confusing :P I also said 50ms in my ARP but was uncertain so promised to follow up on it :P
+I believe 50 msec is also mentioned by the guy on the cisco live video, but I don’t promise
+Afaik that said 50ms. At least thats what I went with in my ARP and Anastasia didn’t mention it was incorrect :D
+Make sure you’re looking at the newest paper.
+Im confused 😂
+...
+and then in the multipod whitepaper it says 10ms
+Does anyone know what the maximum RTT for multipod is? I keep finding different information…. like this: “Additionally, a maximum latency of 50 msec RTT can be supported between Pods starting from ACI software release 2.3. In previous ACI releases, this limit is 10 msec RTT instead.”
+A little bit 
+🇪🇸🇪🇸
+eee
+eeee
+nah
+I hope so
+Is someone awake?
+That’s meee Antoine, please 😇
+Angel !
+Angel!
+a yellow emoji ?
+Merci Antoine you are an 😇
+http://wwwin.cisco.com/c/cec/organizations/finance/services-tools/global-expenses/forms.html
+Missing Receipts form for future ctrl+f reference if anyone needs it.
+Mine is on the 28th, I don’t mind Victoria
+Helllooo! Would anyone be willing to switch their Meraki session with mine? They put me on Friday March 2nd but I will be in Norway then :(
+you’re welcome
+Thanks Antoine!!!!
+Thanks Antoine
+Thanks Antoine! ☺️
+Victoria Christine Ololo, correction, both models belong to the “SDN” concept
+source : https://www.sdxcentral.com/cisco/datacenter/definitions/cisco-openflow/
+Declarative vs Imperative
+
+Imperative describes a centralized SDN Controller that acts as the brains for the SDN environment; the controller receives requests from applications, via a northbound application program interface (API), and dictates downstream to the forwarding plane how the switches/routers need to be configured to answer the needs of the application. There is the potential for the centralized controller to become a bottleneck and a single point of failure in the network, which different implementations attempt to address.
+Declarative describes a model where the SDN Controller declares what the application needs and sends that message to the network fabric for the switches and routers to determine how to meet the application’s requirements. A declarative control plane allows for more distributed intelligence; it sets a central policy, but gives power to network nodes to make more decisions about how to execute said policies.
+
+Good HyperFlex slides
+Definitely not a vegan product
+niiiice
+Good to know
+Whoever wants to know about storage:
+https://salesconnect.cloudapps.cisco.com/SCContentLauncher?cid=75adedd6-41d8-4e8e-bdca-dbd67f1f8161&&view=https%3A%2F%2Fwww.cisco.com%2FE-Learning%2Fpa%2Fbulk%2FCisco_Products%2F02_Framework%2F02_Framework%2FStorage_Framework_index_html5.html.html
+You should have enjoyed a little more the TP crash, really
+You’re welcome Cedric :p
+😂
+A question
+Thank god
+Or you are free people
+TP crashed. Lina we need a collaboration expert, please
+runners high probably?
+yeah! more fame!
+2 germans smiling in 1 picture ! Waouh !
+😍😊👌💪
+😘
+🤓
+nerd
+Syn Ack
+Guys, I feel bad for Anastasia .... should we end the meeting ?
+thanks
+https://cisco.webex.com/ciscosales/j.php?MTID=m4ec7656376a9a8d86a01c553f06e178e
+can someone send the link for the webex?
+💪
+😎
+For Nutanix
+Good Hyperconverged Infrastructure summary
+thanks
+https://www.cisco.com/c/en/us/products/switches/nexus-9000-series-switches/datasheet-listing.html
+thanks so much!
+Try this if you want to learn coding. Multiple languages and different levels workouts. Mobile app. It’s really useful: https://www.enki.com/
+lol
+i’ve this. Do you have an adapter ?
+Hi does someone has an old USB stick that I can borrow for this afternoon?
+Maybe we can tell Ozgur to come back in half a month
+i really liked the “one of these days” Alessandro 🤣
+still no info about ARP4 briefing ...
+does someone has information about flows between ACI, UCS Director and the APIC (which protocols they use to talk to each other, to “discover” the APICs etc) ?
+many*
+Also the FI that you plug into the UCS-B chassis has only 4x10Gb + 1x40Gb port, which is not that mant
+Agenda:
+
+Pick up phone
+THIS IS PATRICK!
+Feedback
+
+GifBot (bot)
+GifBot ozgur
+Agenda:
+
+Explosions
+ACI
+More Explosions
+Drop the mic
+The End
+
+GifBot (bot)
+GifBot cry
+oh shit
+Welcome
+Ozgur joins
+Start to cry
+Cry a little more
+Goodbye
+Feedback
+
+I like yours @Minke, I would just add a line
+Agenda:
+
+Welcome
+Start to cry
+Cry a little more
+Goodbye
+Feedback
+
+Haha :D
+Agenda :
+
+Icebreaker
+DataCenter
+Feedback
+
+I realised that we have to send the agenda 3 days before the role-play so I thought it might be good to give you guys a reminder since its pretty easy to forget 🙈
+source : https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-6300-series-fabric-interconnects/datasheet-c78-736682.html
+The second scheme is kind of good to show that (UCS-B on top, and UCS-B on the bottom). Or the FI is a linecard, or it’s a box
+You buy UCS chassis and you need to buy a “leaf switch” box.
+
+From the doc, I think you have two choices.
+
+You buy UCS blades, that will be inserted into a big chassis, like this one. This big chassis has 2 slots that can be used as Fabric Interconnect
+
+but I guess its still different products from the customer point of view so you probably can’t buy a leaf as is and then later configure it to be a FI… or?
+according to this doc : “Fabric Interconnect is a leaf with expanded policy and state interaction”
+Here they seem to use top of the rack leaf switches so I guess it should work right? :D
+Do you have the same performances between a FI and a leaf ?
+And the 32 port FI is more expensive than a 48 port leaf switch, so my question, do we really need FI unless we want to buy a bunch of UCS-B chassis?
+🤔
+ahah according to the datasheet UCS Director talks directly with UCS-C https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-director/datasheet-c78-730830.html?cachemode=refresh
+Haha sorry for answering with more questions :P
+Can you have UCS managers on the leafs?
+Don’t you still need the UCS managers even though you have ucs director?
+Does anyone know what is the point/advantage of connecting ucs-c to the fabric interconnect instead of directly to a leaf when you have ucs director managing everything anyways?
+Here are some more details about the compatibility of ucs director but I guess the table summarize them well enough https://www.cisco.com/c/en/us/td/docs/unified_computing/ucs/ucs-director/compatibility-matrix/6-5/cisco-ucs-director-compatibility-matrix-65.html#reference_CA2B810FE58E4ADF8D3BA9FFA297C6AD
+it’s not using your cisco password (like on CCW)
+you need to make another account
+anyone else who has a problem logging in into cisco live?
+Thanks 🍖💪
+I got your back, Cedric 💪🏻🍗
+^^ What I was going to send but my internet is too slow
+This is a good table
+GifBot (bot)
+GifBot lol
+I think that goes for almost all the products UCS Director can manage. It covers a lot of the features, but for the really granular control you usually have to go to the Single Pane Of Glass™ of the product.
+From UCS director, you can manage most of the features of Dell/HP, but not all of them (depending on product and version).
+
+Don’t forget to enjoy your holidays, Cedric ;)
+Thanks Cedric!! ☺️
+In case anyone was wondering UCS Director can manage Dell and HP Servers as per the datasheet.
+There are some requirements on the server side, but I think that’s not something we need to discuss in detail in the meeting.
+that wasn’t my point, they told the to kind of ignore that or at least not focus on that
+if you have two DC, how can you do something else than multipod ?
+My mentor told me that last year they told them not to focus on multipod, who knows this year
+👍
+this is a great technical paper about ACI multipod
+🙈
+ACI are little planes in your DC. Easy.
+ACI from an ASR point of view
+Same here for Ozgur
+Uuuuh. In Spain, if you have been a bad boy you get coil for Christmas 
+In the meanwhile, Ozgur is coming to town
+The most expensive tree ever
+Hahahahaha
+Dna seen by ASRs 😂
+Hello and happy new year everyone. For those studying for ccnp switch, here are around 200 anki flashcards that I created back then to memorise stuff. They are both configuration and theory. You need to install Anki and then import them, if you need any help just ask ;)
+What about Instagram
+Easy, we should buy Facebook
+Was already hard to compete with Skype for business but now 🤣
+I will tell the BU about GifPoint. As key advantage for Spark
+AHA they don’t have gifbot
+Does it include GifBot ?
+Sorry for the guys that want collab. WhatsApp has announced WhatsApp for Bussiness 
+Hahahaha
+flight is delayed, a wild ASR (Ela) wanted to work on the ARP4. Im sorry :(
+UCS Director - Compatibility matrix
+CorinneCedric💪🏻
+if no, put a stamp on it, and go back to “did you put a stamp already?"
+if yes, you can put it in the printer room
+did you pay for the stamp already?
+Can we send letters from work?
+^^ yeah for some reason that gets automatically shortened -_-
+double ‘-'
+it’s :
+
+git —version
+this is what I wanted
+The third link in the email Ozgur sent takes you to learninglabs and in the first task they ask you to run
+
+git —version
+If you get an error saying “xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun” just enter
+
+xcode-select —install
+That should fix it
+Wow that formatting sucked
+The third link in the email Ozgur sent takes you to learninglabs and in the first task they ask you to run
+‘’’
+git —version
+‘’’
+If you get an error saying “xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun” just enter
+‘’’
+xcode-select —install
+‘’’
+That should fix it
+U da best
+Unzip
+Go into the folder
+sudo python3 setup.py install
+
+fixed it :
+did someone managed to do the Programmability training that Ozgur sent ?
+If yes, did you successfully installed Requests ?
+💪🏻
+Excellent thanks
+for those who are looking for the PDF version of the CCNP-SWITCH book
+hello,
+this website is also super cool, to learn coding :
+https://www.codecademy.com
+Frank i can do the hug
+Haha 🙈
+Christine I want all of the above
+Safe journey everyone
+Hahah love it!
+Makes sense :)
+Happy Holidays everyone!! :)
+https://www.cisco.com/c/dam/en/us/td/docs/solutions/Enterprise/Data_Center/MSDC/1-0/MSDC_AAG_1.pdf
+No worries. This one is also good, it’s “How to setup an ACI Fabric from scratch” Gets too technical after 50mins or so but I think it’s interesting anyway.
+https://www.ciscolive.com/global/on-demand-library/?search=brkaci-2004#/video/1509464085Ra0ef1d9b0
+thanks Cedric
+The last 20 minutes are not that useful. Basically when he starts talking about WAN connections.
+https://www.ciscolive.com/global/on-demand-library/?ssoToken=gLd1513759585129001oL6pq8W&search=multi%20pod#/session/1485287126408001gMwX
+Multi Pod presentation from Cisco Live
+*haz
+ok I had thanks katrin
+I have one at home
+Does anybody have an sd card adapter for se mäc
+yeah, it´s like Real Deal speaker for AMP
+So there is another meeting ?
+Oh I haven’t received the invitation
+same bridge number or room if you like ;)
+There is actually a session about AMP from a former CSAPer starting in 4 mins
+If it’s recorded :p
+Great, so the you could tell us what was all about haha
+AMS5-1-BALBOA
+I didn’t leave
+You left, but the meeting will continue
+“best solution on the market"
+not great :(
+Yeah, Cisco Collab 👎
+it’s so weird that we can’t see the presenter …
+I did not unfortunately
+Sorry, from the meeting with Alex
+coco put the screenshots on the ASE security group
+Did anyone take pictures of the whiteboard during those sessions?
+Thanks !!
+Thanks dude !
+My notes for ARP4 from the meeting with Alex
+https://www.evernote.com/l/ABJV5cFDdClCfKa7MBJ4mj_xWm00fUraA0w
+“and then you get fat”
+Wow, it’s like a water bed
+thats disgusting
+oh nooo
+GifBot (bot)
+GifBot fat
+GifBot (bot)
+GifBot fa
+GifBot (bot)
+GifBot all you can eat
+hahahaha
+GifBot (bot)
+GifBot oprah
+https://cisco.jiveon.com/docs/DOC-1452383
+“You cant protect what you cant see”
+i dont see why it would
+Haha for sure it will
+i have a feeling that that picture will follow me all year 🙈
+crazy eyes
+same eyes as angel
+GifBot (bot)
+GifBot Joey Tribbiani
+Hahah, sexy Angela
+“That’s not funny”
+🙈🙈🙈🙈🙈
+“When you love your specialization and take it ice skating”
+🇯🇵: Tier 2
+when you have the specialization you wanted
+as long as Nico is happy 🌝
+So at the end we will all end up doing collaboration
+WHen they don’t put you in collab.
+wishful thinking?
+Ahahahaha
+“allo? Im antoine, you can use me as you please"
+Awww yeah
+“use me, master"
+“I can be one of the asses that you can use”
+https://www.cisco.com/c/dam/global/en_uk/assets/pdfs/cisco_gdpr_mission_impenetrable_final.pdf
+No idea, but there you have a question!
+do you know which one it is ?
+he said fortinet has a super cool feature that we dont have
+You mean, what is their equivalent?
+They can use PxGrid
+probably ISE + PxGrid on Cisco side. What about Fortinet side ?
+McAfee uses it as well
+This last thing is PxGrid
+for fortinet
+do you know which feature he is talking about?
+GifBot (bot)
+GifBot Collaboration
+Oops wrong chat
+me_irl
+Acronym Inception
+When you explain how bots work
+Can-teen
+We have until 1:30 for the canteen anyway
+Yeah 1pm is on the schedule
+Its programmed for 1 o’clock
+When you still have trouble using a bot after 6 month at Cisco
+Hello all. A new poll has been created for this room. ? Please mention the poll bot followed by your answer @Ezpoll yes @Ezpoll no
+EzPoll add /poll?
+Ryan you need to add /poll
+Thank you Ryan Kadri for you response.
+EzPoll Yes
+EzPoll Let’s have lunch now ?
+*Migraine not due to too many  🍇
+😕
+This is migraine… :(
+hahaha
+Oh, it’s never too many 🍇
+Too many 🍇? 😉
+I can wait
+Nah, don’t worry thanks
+I can grab some for you if you need it now.
+Fuck, I will not make it upstairs
+Upstairs
+Yeah
+1g or so
+Any of you has a strong paracetamol?
+Thank you Christine Bockelman for you response.
+EzPoll yes
+Thank you Alejandro Gaitan Roca for you response.
+EzPoll yes
+omg yes
+yes
+Oh fuck
+Yessss
+Thank you Antoine Orsoni for you response.
+EzPoll yes
+He said break before the next topic
+Hello all. A new poll has been created for this room. Break ? Please mention the poll bot followed by your answer @Ezpoll yes @Ezpoll no
+EzPoll /poll Break ?
+yes please!!!
+yiss
+Break?
+“Yes, Antoine, it’s fine"
+“Hey ref, is this tackle legal?"
+Cheers
+Defensive Player of the year, Angel approves that tackle
+I did not want to see that
+Whaaaat the fuuck
+what have you done
+oh no
+NOOOOOOOOOOOO
+GifBot (bot)
+GifBot break!
+Bluhwein
+😃
+hahaha
+I don’t know, I can’t see anything !!
+yeah, ryan thats terrible no?
+Help me out !!
+Can’t stop laughing !
+“Is anything funny going on ?”
+Bene I will !
+Would you bet your salary on it?
+“ISE is easy to emplement"
+😂
+Me reading all these messages
+“Chuck, someone here is saying something bad about Cisco”
+What ?
+RIPv2 or v3?
+“let me help you"
+RIP Alejandro
+Hey Ryan, I’ve a problem with implementing ISE
+I love this
+When they ask you something about ISE
+Holy shit
+When did you take that picture?
+When ISE doesn’t work at first chance
+Haha
+BeLAN
+1 VLAAAAN Marc
+After they decide to move to Huawei
+Angel, how many VLANs?
+hahahhahaha
+“Now you’re secured”
+Customers after you install ISE
+you’re welcome 😁 😜
+“Did you like the ice skating Angel ?”
+Thanks Katrin
+Me after surviving ice skating
+Thanks Katrin !
+Thanks Katrin
+👍🏼
+Thanks
+Another Licensing slide :p
+And this is the actual licensing!
+Super!! :)
+nice
+Most recent deployment sizing that I know, using the existing appliances
+“EOL10878
+
+Cisco announces the end-of-sale and end-of life dates for the Cisco Secure Network Server (SNS) 3415 and 3495 Appliances for Cisco ISE, NAC, and ACS Applications”
+Gracias muchacho
+oow
+Come back
+come back ! <3
+bitchin
+https://www.cisco.com/c/en/us/td/docs/security/ise/2-2/install_guide/b_ise_InstallationGuide22/b_ise_InstallationGuide22_chapter_00.html
+With how much of all the devices we need for different amounts of devices
+Did anypne have the website he was on before
+THanks
+I have this really good slides from the BU that provides a good overview to ISE, if you are crazy enough
+thanks Cedric
+:(
+Especially when your name is Victoria for example :D
+yeah, the ranking is “a bit” unfair ;)
+the Alex’s crew and Angel are going to pass me :(
+I am at the 14th position in the alphabetical order. So proud !
+I know, Cedric ❤️
+Antoine you are my hero
+im sure he is… hopefully his replacement will be too
+I hope chris dedicott is proud
+better at iCoach than CCNP apparently … success on first attempt
+Thanks
+thanks 👍
+icoach cheatsheet
+Feel the sarcasm in there
+that’s how cisco describes carbon black’s solution
+That’s what it’s all about. Features don’t matter.
+“Shows a lot of eye candy which makes the investigation process visually appealing.”
+dankjewel
+For CarbonBlack guys
+But fancy people sounds about right 
+There's lots of space here, if you run out 
+That room is for the fancy people haha
+No st Stevens
+I think we are meant to come 
+Near the massage chairs 
+The all hands session is in louvre gardens 
+Hey
+Classic
+😁😁😁
+Are you 100% sure :D
+hahhahaha
+Amazing
+hahahaha
+OS = Ololo Shembo
+Jacques
+But it’s jaques
+It’s what I thought
+Ozgur
+PS: According to Lina the ASE manager is on webex
+You know you can do it! Take a rest, now you know what to expect for the next time ;)
+Know that feeling. Take the weekend to reset and you still have plenty of time to get it done.
+Don’t worry Antoine, that shit is hard :) next time you’ll make it!
+I am really sad about it ...
+:( Im so sorry! Next time you’ll rock it!!
+Next time dude, let’s have a beer
+Bummer! But you will get it next time for sure! Now you know what to expect
+aaah im so sorry antoine! next time you’ll kick ass!
+Ccnp failed. I am sad...
+Let’s do it
+i forgot it as well
+Haha should we do it tomorrow?
+I forgot about my red bull idea 😂🙈
+Service Profiles: Day 5 Slide 17 DC
+http://nexus9kaci.cisco.com/
+If someone lost iphone earbuds in the whiteboard close to nico office, we have them
+Thanks Cedric!!
+https://www.cisco.com/c/en/us/solutions/collateral/data-center-virtualization/application-centric-infrastructure/white-paper-c11-737855.html
+👍
+Meatballs today. Be there or be a meat cube.
+MARCOS
+Marocs*
+Maroc will have a heart attack and we will have Dean again :(
+sounds good - I can help you Cedric 😉
+I like that. I can take care of the excess
+I just had an idea for a small prank 🙈Can we all bring one Red Bull tomorrow and totally overwhelm Marcos with the amount of red bull
+Hello, Mohamed Wanas (ex CSAPer from Egypt, specialized in EN) contacted me and ask me if we can support him in the EMEAR own it award.
+
+His message :
+Galala City Opportunity has been selected as the finalist in EMEAR OWN IT Award, I highly appreciate your support by investing your 5 Chips in my nomination using the link below. To vote for me, you can do the below simple steps (1 min):   1-Press this link: https://smartzone.brightidea.com/D13276   2- On the upper left corner, you will find the City Photo and an option to edit your chips, please use it and select All your 5 Chips.
+
+He is available if you have questions about EN.
+thanks
+Of course
+i cannot join :(
+could you record it, please ?
+Hi guys I just realized it might be good to read through arp 4 before tomorrows dc session because then we can ask questions to do with the role play 😉
+if i blink twice with the eyes is because I need help
+Please tell me when my eyes close
+You’re doing great
+What a pressure
+Whats up
+Yeah Angel talking to you
+lol
+Sit up straight Angel
+se va a cagar la perra, Angel
+Looking good Angel
+but from the scheme point of view, it’s very likely to be Remote access
+you can unmute and ask ;)
+Is the DES for S2S ot Remote?
+die tryin
+perform or...
+the snow is going to melt, they will find him
+put it outside as a warning for other tutors
+Just wait until the snow melts
+🤷🏼‍♀️
+did you hide the body ?
+you mean dean?
+No
+is your guy back ?
+THanks
+our TP info :
+
+Facilitator: Marcos Cavinato
+
+Conference/TP Room Information: AMS5-1-BALBOA PARK
+
+Bridge Information*:
+
+*When connecting via TP, all sites must dial the videoconference bridge to connect to this session.
+
+Join from a video conferencing system or application
+Dial 209720123@cisco.webex.com
+
+From the Cisco internal network, dial 267 and the 9-digit meeting number. If you are the host, enter your PIN when prompted.
+
+WebEx Information:
+
+All participants must join WebEx. Each session will be recorded.
+
+Join WebEx meeting
+
+Meeting number: 209 720 123
+
+Meeting password: csapfy18q1 (27273918 from phones)
+
+Or..
+
+  Navigate to https://ciscosales.webex.com
+
+  Select MEETING CENTER
+
+  Enter the Session ID/Number: 209 720 123 
+
+  Enter the session password: csapfy18q1
+
+Facilitators, to claim the Host role:
+
+  Join WebEx session by using link or instructions above
+
+  Click PARTICIPANT drop down
+
+  Select RECLAIM HOST ROLE
+
+  Enter the Host Key: 551599
+
+
+Thanks Marc for the links
+I’ve seen them with Spark as well
+Hahaha, those robots were featured in the series The Community
+Thanks!
+https://www.cisco.com/c/en/us/products/unified-communications/business-edition-6000/sales-resources-listing.html
+The same exists for the BE6000. Just follow the link for partner sales guide through salesconnect.
+I found the BE4000 sales resources pretty good for slides, in case you’re using that for the roleplay. There are slides specifically directed for partners and a playbook.
+
+https://www.cisco.com/c/en/us/products/unified-communications/business-edition-4000/sales-resources-listing.html
+If all else fails https://telepresencerobots.com/comparison
+Ah great - thanks guys!!
+They are open around the same time (10-12 and 2-4)
+Yes - there is a office at the ground floor.. when you go to the mailroom on the left side in a glass cube ;)
+never stuck outside again ;-)
+Thanks!!
+Building Services, on the way to the mail room on the left side after the first door
+aaah get me one too please XD hahaha
+Does anyone know how I can get my badge to let me into the building 24/7? Who do I go to?
+Collaboration Endpoint Matrix to compare all the different products
+https://www.cisco.com/c/dam/en/us/products/collateral/collaboration-endpoints/sales-tool-c96-739424.pdf
+Nah, difficult to play with words in a language I don’t understand
+crue à san
+Victoria i thought you were supposed to bring croissants today
+(With the croissants)
+And pains au chocolat
+Go ahead!
+Only if you bring croissants
+Hello,
+Do you mind if I take the library on Thursday, from 14:00 to 15:00, to be able to use the whiteboard for my ARP3 ?
+ahhh, now I get it 😜
+1 spin / user
+I spin the wheel for the licenses, it works pretty well so far
+I’ll join 🙋🏼‍♀️
+I will!!
+Hey,
+I´m still pretty lost in the whole licensing thing. At 10 I´ll talk to Ibrahim (the guy from Prague who always asks questions 😂) and put our knowledge together. If anyone wants to join I´ll be in Balboa.
+👍🏻👍🏻👍🏻
+Hi, Im organising a Data Center session with VSE Alex next weeks Wednesday for anyone that is interested. The main topics are:
+UCS -design
+DC Network design
+Analytics and Applications
+
+I’ll send a calendar invite as well :)
+Haha
+(This room is Balboa)
+this room = Balboa :P
+The instructor prefers everyone to come to this room
+Everyone come to the Cisco Capital meeting
+can you switch to presenter mode ?
+BE7K ordering guide (for the licenses): https://www.cisco.com/c/en/us/products/collateral/unified-communications/business-edition-7000/guide-c07-733539.html
+Server sizing: http://ucs.cloudapps.cisco.com/
+Cisco Tools Catalog
+yes, sure!
+great ! can you bring pains au chocolat, as well ?
+Tomorrow I’m bringing croissants !!
+https://www.cisco.com/c/en_au/partners/sell-integrate-consult/architecture-solutions/programs.html
+LOL, Giuseppe declined my invitation so I guess it will only be Nico ...
+enjoy :)
+In my ARPs so far he hasn’t actually been that tough. I ended up feeling pretty good both times. So I wouldn’t stress too much.
+😭
+We got a SIP message “INVITE ACCEPTED : you’re screwed”
+<
+Nico is attending mine too
+XD
+you can literally hear when nico accepts some arps
+hahaha
+I got Pepe and Nico too
+You can still ask questions, even if you don’t know the answer
+From what I’ve heard Pepe and Sen don’t know that much about Collab. But probably still plenty to make it painful.
+THey’ll both screw you with their eyes close
+I don’t know who (between Pepe and Nico) will be the technical guy 🤔
+How did you do that Sarah !!!
+how cool
+He declined Sarah’s invite apparently
+maybe he’s just accepting everything
+me too
+Enjoy Victoria
+😖😖😖
+He accepted mine as well Antoine
+i am not really concerned about Pepe joining, to be honest
+Pepe said yes too
+did pepe reply?
+RIP Antoine
+haha, good luck 😂
+☹️
+this Istambul joke never gets old :D
+Yup we’re on it
+Is the Biesbosch group connecting to the meeting?
+Its from your ordering guide link, so thanks to you too 🙋
+Thanks
+Ah nice, that’s actually super helpful.
+As a result of the work completed in the X8.9 release, Cisco Expressway is the preferred solution to meet with for the overwhelming majority of customer requirements. Cisco TelePresence Video Communication Server (VCS) delivers rich video collaboration throughout and beyond the enterprise network, and is ideal for organizations that do not have Cisco call control in their environment (that is, are not running Cisco Unified Communications Manager) but want to use Cisco TelePresence video conferencing applications.
+great slide Alejandro!
+Much better this
+VCS
+Expressway
+Not always, they have different capabilities, so you may need one or the other, or both of them
+Superset implies same but more
+Sounds like it to me
+Expressway = Basic
+VCS = Advanced?
+So you need either or?
+^^ Exactly what I was about to say
+Anyone any idea what´s the difference between Expressway and VCS?
+Recording
+Password: GhNJKJh6
+https://cisco.jiveon.com/groups/collaboration-competitive/pages/compete-updates
+Gracias!!
+The page has info from this ppt. The page he was looking at was BE7000 configuration guide
+thanks Victoria
+I have the presentation
+Video codec - H264 (3.5 Mb/s) and H265 (1.5 Mb/s)
+do you have the link of the page for this picture ? the one he was using ?
+Thanks !
+spark encryption : https://www.cisco.com/c/dam/en/us/solutions/collateral/collaboration/cloud-collaboration/cisco-spark-security-white-paper.pdf
+http://cucst.cloudapps.cisco.com/landing
+does anyone have the sizing tool link and can share it?
+coming downstairs
+Use that link to join webex: cs.co/algaitan
+I might need to mute and go out in the middle, and I don’t wan-t to disturb
+cs.co/algaitan
+Why don’t you come downstairs?
+done
+So you can all join from spark
+Antoine
+Antoine, make me admin of this group and I will join the room
+will try
+I’ll be there soon
+can you invite us via webex ?
+Now, balboa
+Where and when?
+I’m gonna have a session with IJsbrand (VSE) to understand the ARP, feel free to join
+me
+Me
+Who's in the office now ?
+👍🏻
+lets discuss that during lunch time
+But we don’t need to take PTOs when we work remotely
+No, we have nothing from Cisco
+It could be nice indeed, do we have the budget from Cisco to do that ?
+Yes !
+from Prague?
+Hi ASEs, I would like to know who is coming back the 2nd or 3rd of January to Cisco? I was thinking that it would be really nice if we could work remotely from Prague office this week of 2nd to 8th of Jan, as we only have OJE and the ARP is pushed away. Let me know if any of you are interested !
+That’s a really good point 🤔
+Nico just made a good point for those of you that are, like me, stressing out about the technical details. He said will you sell collab explaining how SIP works? Clearly not.
+So for me at least that helped a lot to put it into perspective again. Think about what kind of impact the explanation needs to have and maybe guide the conversation away from the deep technical stuff if that starts happening.
+Thanks Ale!
+BE6k ordering guide https://www.cisco.com/c/en/us/products/collateral/unified-communications/business-edition-6000/guide-c07-737625.html
+move voice over the WAN to reduce the cost (Amsterdam -> US through the WAN, and then you pay for a local call)
+IP call, end-to-end
+merging of voice, messaging and video (telepresence => dedicated room, like the one we used for “OK Go”)
+ad-hoc meetings, easy scaling (cloud ☁️) and file-sharing
+
+I’ll learn this by heart and then just repeat this in one go
+Great job !!!
+From our facilitator :
+
+The "phases" of the Cisco journey are 1- VOIP which is early/mid 1990's where customers utilized the WAN to move voice from one location to another which we called Toll Bypass 2- IP Telephony after the Selsius acquisition we then could replace the PBX with our CUCM solution and our IP Phones. We also could support voice mail as well. 3- Unified Communications came with the Jabber acquisition and the ability to add IM/Presence to our solution and have it deployed as a comprehensive solution. 4-Collaboration includes the Tandberg video solution, WebEx meeting solutions all integrated together. All of this was generally deployed on premise for our customers but Spark is the "next generation" collaboration that utilizes the cloud as a platform and enhances the IP/Presence, meeting, video, and voice along with specific technologies that make it easy to use. The good part is Cisco can provide a "hybrid" solution that connects your on premise solution with our cloud based Spark solution.
+No big issues, but random stuff has started lagging and crashing for me that didn't happen before the update. 
+VM yes, and have office is working now again
+Have you updated your sw before you upgraded the OS?
+i’ve high sierra and outlook + VM are working
+my VM still doesnt work
+and also
+had to completely reinstall office
+my powerpoint and outlook crashed
+why that?
+The recent security bug can be fixed by setting a root password. Or is there something else?
+pain in the butt
+same
+By the way, if you haven’t upgraded to High Sierra, I wouldn’t recommend it.
+Even Walter has something to say “…Hello”
+Funny*
+Too funy
+From Paree! hahaha
+Walter… just Walter from Paris Texas :D :D
+If you haven’t watched the video for tomorrows class - I HIGHLY recommend it hahahah
+And he is just like our facilitator but a different name!
+Yeah, I watched everything. He is amazing
+this guy is able to teach LAN, DC, collab and security. Waouh
+2 hours of DC fundamentals, thank you lord 🙌
+we would have needed this guy for DC ….
+That’s our facilitator
+Guys, never talked to you about this fellow. I learned a lot with this red badge last year about all products, history and solutions:
+Chris Litster
+Of course
+digital learning tells you to go home, probably
+That’s what you always recommend to me 🤷🏼‍♀️
+😜
+Have you tried restarting your computer?
+At the moment from the website, Alessandro said just to wait so I hope that works
+or with a shortcut ?
+do you access it via the website -> choosing the course ?
+Has anyone ever had the problem where you can’t launch your digital learning course?
+thanks guys
+And we will answer!
+Call 83123327@cisco.com on spark
+omw
+Gracias !
+sure
+Can you call me from the room on Spark ?
+feel free to come :D
+i worked last year as a VPAM so i’m gonna try to make an overview about how it works
+some of us are still in balboa for talking about the partner organization for the ARP
+guys
+thanks
+I’m the best but thanks Chris
+Thanks Chris, you’re the best!
+SDA Presentation from Lucio
+please Chris
+can you put the slides here, Chris ?
+Thanks homie
+Alright
+cool
+👍
+You digg
+It will be held in Balboa. That’s it.
+Update on Session with Lucio:
+Yes for Anastasia, yes for Ikea but keep the two separate
+Even though ikea is great 😉Thank you
+Even though ikea is great 😉
+Any other ideas?
+🙈😂
+we can invite her to IKEA ? :D
+By the way, should we bring Anastasia something next week as a thank you for giving us an extra session on DC?
+For those who though with me about stacking ( Corinne), here are more info (master role, subordinates role, high availability mechanisms).
+
+https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3750-series-switches/prod_white_paper09186a00801b096a.html
+Hover/click over the Browse Sales Hubs
+https://salesconnect.cloudapps.cisco.com/#/program/HUB-10717
+https://cisco.jiveon.com/groups/competitive
+https://www.cisco.com/c/en/us/products/switches/nexus-9000-series-switches/datasheet-listing.html
+http://www.ttlbits.com/2017/11/difference-between-cisco-aci-multi-pod.html
+https://www.cisco.com/c/dam/en/us/td/docs/switches/datacenter/aci/aci_multi-site/sw/1x/fundamentals/Multi-Pod_vs_Multi-Site_Infographic.pdf
+source : https://www.cisco.com/c/en/us/products/collateral/switches/nexus-9000-series-switches/white-paper-c11-729383.html
+VXLAN header :
+outer Portfolio, WAAS, iWAN, Router/Network Services, SD-WAN(Viptela/Meraki), IoT & Industrial Routers, Routers as Voice gateway, NFV and Virtualization, Componets of a Router
+ISR Portfolio, 2) IWAN, 3)Components of a Router, 4) Network Services in a Router, 5) IoT Router (Including Industrial) & Protocols, 6) SD-WAN (merkai, viptela), 7) Router as a Voice Gateway, 8) WAAS
+These are the topics we got from Nico for our WAN discussion today, maybe you guys will get similar ones.
+
+Sounds good, let´s leave the office at around 17:15, so we have some time to change before it begins
+🤣
+That’s Amsterdam fencing
+So that’s what it looks like
+GifBot (bot)
+GifBot fencing
+Rene I join!
+GifBot (bot)
+GifBot oops
+Hahaha
+not what was expected …
+GifBot (bot)
+GifBot shotgun !
+Ryan and me are going by car, if you want to join
+shotgun !
+just wanted to post about it :D
+yes
+is someone going to Fencing, tonight ?
+we are sending Giuseppe !
+ok
+steal
+Lina if you don’t share it for free, I will still your biceps
+That’s poker room here ?
+you can get it via a subscription
+It will cost tho
+Top secret
+could you share your knowledge here ?
+:D
+yep, a lot
+@Anastasia’s team, do you have any info on UCS architecture (fabric interconnect, fabric extender) … ?
+GifBot (bot)
+GifBot thanks
+Techwise is the best!
+I recommend this too! https://video.cisco.com/detail/videos/aci-–-application-centric-infrastructure/video/4827153449001/techwisetv:-application-policy-infrastructure-controller-enterprise-module
+Hey, good link (FAQ) regarding cisco ACI :
+
+http://nexus9kaci.cisco.com/product-line/aci/aci-fabric-faq
+Super helpful!
+Thanks Lina!!!
+Yeah, Prime is more a merge of APIC and the DNA dashboard. The way you access prime and push commands is on a much more manual basis than DNA where commands are pushed automatically on to your network via APIC-EM.
+Thanks Cedric!
+Not super good, but in essence Prime is a controller that has a web interface which configures your switches for you. But in the end it’s still individually configured switches.
+DNA provides the complete separation between the brain/control plane - APIC-EM - and the data plane - which is the fabric comprised of all the switches. So all the automation and intelligence is separated from the switches.
+Does anyone have a good understanding of the difference between Prime and DNA?
+Hello I'm a poll bot. Here's what I can do when you use the following commands after mentioning me in a room. /poll followed by any question will create a poll in the room. /results will output the results of the poll. /clear will clear the poll from the room. NOTE: there can only be 1 poll in a room at a time.
+to do an “Ezpoll”, add the bot into a space (ezpoll@sparkbot.io), as you would for a “real” person. And then follow the instructions
+taking notees ✍✍
+Angel she is talking about being overdressed !
+YEEEEES !!!
+Ah nice, thanks
+thanks René
+FYI: The managers gave their picks for Cisco Live to Ozgur on Monday and he will send out a global e-mail with the names when he´s ready. So it´s not our managers fault that it takes soooo long
+Ah I thought there was one with the facilitators. Maybe we’ll just make our own then
+the one we have, we are with our group and the facilitator Dean. Anastasia is not here. You want to be added anyway ?
+The facilitators are in the other one
+why not exchanging here ?
+Sounds like there’s gonna be one space for everyone this time around and I don’t think anyone from Anastasia’s team is in it yet.
+Can someone add the rest of us into the Data Center space please?
+tak
+tak
+tak
+Tak Max
+Wish we had it before the ARP.. :P
+good resource for switching portfolio and technologies for those that haven’t seen this yet http://switching.cisco.com
+thank you
+•	The Limited Lifetime Warranty (LLW) that you have with your Catalyst 2960 covers hardware faults within five (5) years from the announcement of discontinuance. The last day to receive HW replacement of your Catalyst 2960 is thus set to April 30, 2022
+Since I got this asked by Giuseppe
+My Thoughts on ARP 2 - Some Questions I was asked
+
+Know the difference between Prime and DNA if you propose DNA
+Know how DNA Works if you propose it - overlay/underlay network - 4 Pillars: Security, Mobility, IoT, Cloud
+Do 3/2 Tier Diagram top to bottom (Collapsed Core at the top - Access below, services on the core)
+Take your time drawing to make it look nice
+Advantages/Differences between older IOS and IOS-XE on 9ks
+Migration Plan - What to do with the old switches?
+Total Switching capacity of the switches
+Are they blocking or Non-blocking
+Regarding DNA Advantage and Essentials
+Do not try to explain everything, you end up rushing too much
+Move the conversation to topics you are more comfortable with, leave the more unknown topics to the end
+Start from DNA Advantage, be able to explain the main differences between Advantage and Essentials
+Do not mention the price at this point, try to divert the question for later meetings
+Try to transform the marketing message in a couple of concrete tools that the customer can use
+At the end try to remind the key points you touched
+
+Hi everyone, here are the main comments from Giuseppe
+For those who haven’t passed their ARPs yet, browse on eBay instead of ccw. Much cheaper
+Otherwise I agree with Chris, especially for the BOM. As soon as you give it to the customer, you will loose his/her attention
+- dont talk about too much features, otherwise the customer will be confused.
+Thank you Chris!
+Thanks :)
+Thanks 🙌
+Thanks Chris
+Thank you for the comments 🤜🏼🤛🏽
+Gracias Chris
+thanks Chris
+perfect, thanks Chris
+Hi everyone! Here are my comments from the ARP. My stand out piece of advice is be prepared to be thrown and be confident about your proposal. Call the presentation a “proposal" :
+
+2 Customers (they have different names)
+They take notes, you should too.
+Ensure that what you say you can explain.
+Be prepared to bring up Cisco proprietary components.
+Use the whiteboard (They will ask you if you don’t bring it up).
+Use technical language.
+Make sure technologies you bring up are also in your BOM.
+BOM is final thing you hand over.
+
+👍🏻
+Thanks!!
+Licensing Differences between Essentials and Advantage
+Good for specialised questions
+http://topic.cisco.com/
+great scheme, thanks !
+hahaha Katrin
+Guys, I think this is the most accurate slide describing DNA components. Some people asked on Friday about APIC-EM role here. Note that APIC-EM is version 2.x, which appears to be a bit different to what we’ve seen (version up to 1.4). Also note that the use of APIC-EM is not mandatory.
+Does anyone else get an Apache error when trying to create a new estimate?
+Oh no...
+same
+Same same
+me too
+All my estimates are gone ! is it the same for you guys ?
+I got access to CCW but all of my estimates are gone - anyone else have this problem?
+Hahaha oh boy. Or Cologne vs Hoffenheim I guess. Do you have a stream for Arsenal though?
+you Can watch Nice VS Dijon if you prefer 😂
+Sylvain are any good teams playing too that I can watch instead? ;)
+Have breakfast first guys
+Arsenal VS Manchester City in 15 minutes, That’s an important thing to do and it does not require ccw :)
+I guess we can enjoy the beautiful weather outside ? 😂
+That’s alright, we don’t have anything important do do.
+Just died
+Ah RiP
+It just logged me out :( Was working all day up until now!
+And I’m on the VPN
+Me as well
+If you’re not already on it
+Maybe try hopping on the VPN?
+https://apps.cisco.com/ccw
+We’ve been using it all day
+No way !!!
+haha, no CCW today …
+Thank you!!!
+Thanks for making it friendly :)
+thanks
+Thanks for reminding Rene
+Just a friendly reminder to complete your “Instinctive Drives” questionnaire. The deadline is tomorrow and Nico said it´s important that we all complete it in time.
+The instructions are in an e-mail from “Sarah Savoie” with the subject “Reminder: GVS&CS Action Needed: Instinctive Drives Quest”
+😂😂
+Can’t consume power if you can’t plug it in 🤓
+As you prefer
+ok, I´ll leave it here then
+what
+I can’t remember
+Yes and no :p
+😂
+oh, so not “forgotton” but “on purpose”?
+Unless some magic happened
+Mine is in Biesboch still
+Not mine 😇
+Yes me
+Sarah ? 😂
+Biesbosch
+where ? :)
+Anyone missing their MacBook charger?
+We could just agree that we save one room for each manager (if Giuseppe -> room 1, Nico -> room 2 ...)
+I think there is two rooms on the second floor
+one can take Balboa and the other can take the 2nd floor room ?
+You should probably start a google doc with what time your arp is and what day
+What is your arp is at the same time as someone else’s though?
+Sure!
+Hey guys, can we agree that we let Balboa and the 2nd floor “class room” free, during the ARP ; so we can invite the managers in those rooms ?
+jep
+207 939 132
+Haha very true
+I’ll join a little later! Don’t finish the beer 😁
+Thanks !!
+Haha ofcourse
+Thanks Christine !
+It’s what I understood :D
+Are you inviting, Christine ?
+Wooohooooooo 💃💃💃💃💃🍻🍻🥂🥂🥂🍷🍷🍷🥃🥃🍸🍸🍹🍾
+Beers across the street at around 17 🍺🍻
+Oh my bad
+ASE only
+haha, could always use some good memes
+ask Frank otherwise, he can make great emails
+good idea Antoine, I´ll try that as well
+e-mail would be best for the start I believe
+maybe ask Irina Kormiletskaya ?
+You fancy a mail format or more like a blog/website ?
+Hi all,
+as you probably know I´m in the process of organizing an ASE Newsletter. I already got some great articles, but now it´s time for the design/layout of the e-mail.
+Anyone got some experience in that area and wants to help?
+Yes please
+I took 6 hours
+I am done downloading the image (5,6 GB). I can share it through AirDrop if you want.
+Hello Engineers,
+
+For those using VIRL through dCloud, you can also use it directly on your own VM (apparently) ; so you don’t need to schedule a “VIRL demo” on dCloud.
+
+http://getvirl.cisco.com/index.php
+Danke Antoine!
+thank YOU ;)
+thanks!
+merci Antoine
+you owe me 1 meatball/download
+22MB instead of 22KG in books
+Yeaaah
+🙏
+Does anyone have the ccnp switch book in pdf format?
+thanks, you are my inspiration on this journey, Cedric
+Much better smiling this time Antoine
+you get*
+lame
+That’s a cool thing being on the first floor : you got the leftovers of the customer conferences
+Good shit
+No Marwan and I stole two sprites that where laying in the hallway
+haha
+Are you drinking beer?
+Do you also know what the difference is between IOT ready and cloud ready? What the requirements are for both categories
+cool, thanks !
+Perfect 👍
+Like 3850 and 6k
+Yes, any devices marked as SD-A ready
+anybody know if DNA runs on more than just the 9k series switches?
+Sorry I just saw this. We took our laptops in, Nico said we are not supposed to use them but we all did some last minute prep while waiting for our turn. I am not sure on how they feel about using notes during the session, a few of us used them to double check some facts and they didn’t mention anything, but we are getting feedback during our 1:1s this week.
+Thanks Cedric, no notes I believe?
+Alright Kids, we just had our team meeting and we did our oral “exams”. Nico did mention at the end that it is not strictly assessed so I would say don’t freak out about it.
+We each drew a topic out of at hat and had to whiteboard about it for 10 minutes. We didn’t get any extra time to prepare apart from the time we had while the others were presenting. Guiseppe was there as well and they both asked questions at a pretty deep level.
+The topics we had, which might change for you guys were:
+1- 3 Tier Model
+2-Stacking (focus on 3850)
+3-mGiG
+4-AVC
+5-SDA
+6-PoE
+7-Switching Portfolio
+8-IOS
+Talking to Sen yesterday he said that he discussed giving the topics out one hour early with Nico, which is basically what happened with us, but we didn’t get the topics allocated of course.
+Complete cloud
+Next level
+https://www.amazon.com/Smiffys-Second-Cloud-Pattern-Costume/dp/B00CES5OM0/ref=pd_sim_193_4/146-1630099-7040722?_encoding=UTF8&psc=1&refRID=BPVW7VY2A9QFVZKR6ENB
+:D :D
+https://www.amazon.com/Smiffys-Jacket-pants-Stand-Serious/dp/B00IKL8P2Q/ref=sr_1_1?ie=UTF8&qid=1508424131&sr=8-1&keywords=cloud+suit
+yes
+We need to know
+Yes !!!!!
+could we ask where he bought his suit ? :D
+AMAAAZING!!!
+He’s AMAZING
+if you hesitate, you should join, the guy is really good
+Yes
+Is the spark board on mute?
+Join meeee
+there’s some kind of echo
+please mute yourself
+Does someone still have their microphone on?
+Or come to balboa
+he is
+Join WebEx meeting
+Meeting number (access code): 200 705 561
+Meeting password: 4aM7mqSQ (42676777 from phones)
+YES*
+HES
+is he wearing the jacket?
+If anyone wants to join a meeting with “dCloud Steve” join the WebEx 200 705 561
+👌
+NO*
+the guy from Pragues has NOT questions !!
+10/10
+better ?
+Smile for the camera antoine
+that is amazing
+You win
+Holy shit hahahah
+hahahah
+what about a Gif contest ?
+me*
+That’s my trying to handle all those frames
+i actually watched this vid before
+and funny
+and its pretty good
+no it works antoine
+The torture room
+my gif is broken, :(
+See how long we last
+They are testing our power
+Not keep it funny
+They’re waiting for us to realise its a prank
+everybody who is not shaking from laughing they know is not listening/watching
+should we tell them ?
+its like hidden camera
+I think its a test
+he is doing the robot 2.0
+XDXDXDXD
+are we the only ones seeing this?
+cant take it
+This is too many fps
+Less frames please!!!
+hahahaha
+hahaha
+for real?
+My favourite framerate
+Ah yes
+Anybody know what that power of teams training is?
+You’re welcome Antoine
+thanks Lina
+Afaik, dns-as also can't really do  encrypted traffic analysis. For this you need ETA
+And regarding Antoine's statement: AVC can include DNS -AS as a feature. 
+Dpi can't do traffic inspection with encrypted data 
+Right! 
+I figure DNS-AS could be used to learn about the application layer when the traffic is encrypted, since DPI doesn't work in that case (right?) 
+I figure DNS-AS could be used to learn about the application layer when the traffic is encrypted, since DPI doesn't work in that case (right?) 
+What do you think of CISCO AVC compared to DNS-AS ?
+According to this documentation, DNS-AS could be used by Cisco AVC to identify applications.
+
+https://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst4500/XE3-9-0E/15-25E/configuration/guide/xe-390-configuration/dnsas.pdf
+and Google talk, haha
+Wow the itunes logo used in that slide is ancient
+I also have this, Alessandro, from the LAN-Module slides :
+thanks
+I sent it first, Max !
+Probably same document that Antoine sent
+https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/qos_nbar/configuration/xe-16/qos-nbar-xe-16-book/nbar-dns-as.pdf
+Yes 1 sek
+does anyone have info about dns-as?
+🍻
+And also today 😁
+🍺
+Beers tomorrow after work 
+Cool, thank you
+yes it will stay master
+“command : reload
+To reload the stack member and to apply a configuration change, use the reload command in privileged EXEC mode.”
+
+source : https://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst2960x/software/15-0_2_EX/stack_manager/command_reference/b_stck_152ex_2960-x_cr/b_stck_152ex_2960-x_cr_chapter_01.html#wp3486313748
+when you change the priority
+I think they need to be rebooted
+ye
+stacking ?
+If you turn one on first and it becomes master, it will stay master?
+Switches don’t preempt for master selection, do they?
+Cool, thank you!
+Coolio thanks!
+Coolio thanks!
+here are my notes about stacking
+👌
+I have the same table without cabling, but with 2 more standards
+Yeah basically
+I.e. it could do Class 1 and 2 powering even with Category 3 cabling
+Ok 👍🏻
+According to wikipedia all PoE require 5e or higher, but can use 3 and up if lower power is required
+Some say PoE can run on cat 3 or higher
+I’ve seen different sources saying different minimum cable types.
+Oh yes
+De rien!
+merci Lina !
+Hm it kind of fucked up the format, I’ll try again
+And here is one on PoE
+Thanks 💪
+my notes about mGig Ethernet
+Hey guys, this is just a really quick dot point overview of AVC from the presentation Ryan and I did last week. I thought it might be helpful if you wanted to include it in your notes.
+Ça fit plizir *
+ça fit* plaisir ;)
+ça fait plisir
+Haha you’re welcome French gang 🤜🏼🤛🏼
+Merci bg, tu fais preuve d’énormément d’urbanité à mon égard.
+On dit merci maggle
+thanks, Assia :)
+So you should at least know what is it about :)
+From what I remember, there is no pure SNMP question. But SNMP is tightly linked to MAC address table notifications or storm-control (for instance)
+Regarding CCNP-SWITCH, there is a part in Digital-Learning to implement SNMPv3.
+SNMP does not appear in the CCNP-SWITCH topics.
+Assia Alessandro do you know if it will be tested during the exam ?
+french flair 🇫🇷🥖🍷🧀
+🙌
+Lol - Ryan fixed it!
+STOP ABUSING MONITORS
+Maybe you made it work too much
+Spoiler : swedish help desk failed
+Started working again for some reason
+Mine didn’t work for a couple of minutes once and i just left it unplugged for a bit
+HOWWWW?!?! It worked yesterday!
+Honestly though, if unplugging everything and plugging it all back again doesn’t work then either your monitor or cables are probably busted.
+Wow Max you know so much. How do you do it?
+Swedish help desk, on duty
+Did you ask you monitor why he refuses to work?
+Is your laptop on?
+did you try violence ?
